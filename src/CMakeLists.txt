@@ -72,6 +72,7 @@ endif(CMAKE_SYSTEM_NAME STREQUAL "Linux")
 set(game-external-libs
 	${common-external-libs}
 	${CRYPTO_LIBRARY}
+	${OPENSSL_SSL_LIBRARY}
 	${Boost_SYSTEM_LIBRARIES}
 	${Boost_RANDOM_LIBRARY}
 	${Boost_THREAD_LIBRARY}
@@ -99,6 +100,7 @@ set(server-external-libs
 	${Boost_RANDOM_LIBRARY}
 	${Boost_COROUTINE_LIBRARY}
 	${CRYPTO_LIBRARY}
+	${OPENSSL_SSL_LIBRARY}
 	${MYSQL_LIBS}
 	-lpthread
 )
