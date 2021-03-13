@@ -1,5 +1,15 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
+About this fork:
+=====
+This is my personal fork of the game **The Battle for Wesnoth**,
+and is only aimed for personal study.
+
+------
+↓↓↓ Original README ↓↓↓
+
+------
+
 About
 =====
 
