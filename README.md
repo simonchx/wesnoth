@@ -4,6 +4,7 @@ About this fork:
 =====
 This is my personal fork of the game **The Battle for Wesnoth**,
 and is only aimed for personal study.
+Mainly on macOS.
 
 ------
 ↓↓↓ Original README ↓↓↓
